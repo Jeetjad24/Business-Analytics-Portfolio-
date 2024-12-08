@@ -29,3 +29,20 @@ This project focuses on predicting housing prices using advanced data analysis a
 [**View Project**](https://github.com/Jeetjad24/Housing_Price/blob/main/Housing_Price.qmd)
 
 
+
+<h1 style="font-size: 36px; color: blue;">Project 3 - Startup Analysis</h1>
+
+This project involves analyzing startup data to identify key factors influencing growth and success. The analysis dives into various metrics and trends to help understand how startups perform and what drives their valuations.
+
+### Key Highlights:
+- **Tools Used**: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
+- **Data Analysis**: Explored startup trends, funding rounds, and geographical distribution.
+- **Visualization**: Created interactive and static visualizations to present insights effectively.
+- **Goal**: To help investors and founders make data-driven decisions.
+
+[**View Project**](https://github.com/Jeetjad24/Startup-Analysis-)
+
+
+
+
+
