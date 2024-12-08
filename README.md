@@ -1,6 +1,6 @@
 # Business-Analytics-Portfolio-
 
-**Spotify Analysis**
+#**Spotify Analysis**
 
 This project focuses on analyzing Spotify music data to uncover trends, insights, and patterns in user preferences. Using Python and Jupyter Notebook, the analysis explores various aspects such as:
 
