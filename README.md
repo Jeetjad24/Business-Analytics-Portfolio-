@@ -1,6 +1,5 @@
 <h1 style="color: blue;">Business-Analytics-Portfolio</h1>
 
-
 <h1 style="font-size: 36px; color: blue;">Project 1 - Spotify Analysis</h1>
 
 This project focuses on analyzing Spotify music data to uncover trends, insights, and patterns in user preferences. Using Python and Jupyter Notebook, the analysis explores various aspects such as:
