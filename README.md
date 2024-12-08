@@ -59,7 +59,7 @@ This project focuses on predicting Click-Through Rates (CTR) using advanced mach
   - Actual vs Predicted CTR
 - **Goal**: To build a robust model for CTR prediction and provide actionable insights.
 
-[**View Project**](https://github.com/Jeetjad24/CTR-Prediction-Modelling-
+[**View Project**](https://github.com/Jeetjad24/CTR-Prediction-Modelling-)
 
 
 
