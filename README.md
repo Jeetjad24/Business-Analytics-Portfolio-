@@ -44,5 +44,36 @@ This project involves analyzing startup data to identify key factors influencing
 
 
 
+<h1 style="font-size: 36px; color: blue;">Project 4 - CTR Prediction Modelling</h1>
+
+This project focuses on predicting Click-Through Rates (CTR) using advanced machine learning techniques and data preparation methods. The analysis includes building and evaluating models, as well as generating insightful visualizations to assess model performance.
+
+### Key Highlights:
+- **Tools Used**: R (xgboost, ggplot2, dplyr).
+- **Data Preparation**: Handling missing values, creating dummy variables, and aligning scoring data with training data.
+- **Predictive Modeling**: Trained an XGBoost model and optimized it using cross-validation.
+- **Visualization**: 
+  - Cross-Validation RMSE Trends
+  - Feature Importance
+  - Predicted CTR Distribution
+  - Actual vs Predicted CTR
+- **Goal**: To build a robust model for CTR prediction and provide actionable insights.
+
+### Generated Visualizations:
+1. **Cross-Validation RMSE**:
+   ![Cross-Validation RMSE](cross_validation_rmse.png)
+   
+2. **Feature Importance**:
+   ![Feature Importance](feature_importance.png)
+   
+3. **Actual vs Predicted CTR**:
+   ![Actual vs Predicted CTR](actual_vs_predicted_ctr.png)
+   
+4. **Predicted CTR Distribution**:
+   ![Predicted CTR Distribution](predicted_ctr_distribution.png)
+
+[**View Project**](https://github.com/Jeetjad24/CTR-Prediction-Modelling-
+
+
 
 
