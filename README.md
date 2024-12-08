@@ -1,4 +1,5 @@
-# Business-Analytics-Portfolio-
+<h1 style="color: blue;">Business-Analytics-Portfolio-</h1>
+
 
 <h1 style="font-size: 36px; color: blue;">Project 1 - Spotify Analysis</h1>
 
