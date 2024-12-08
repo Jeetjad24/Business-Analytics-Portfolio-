@@ -1,11 +1,13 @@
 # Business-Analytics-Portfolio-
 
-Spotify Analysis
+**Spotify Analysis**
+
 This project focuses on analyzing Spotify music data to uncover trends, insights, and patterns in user preferences. Using Python and Jupyter Notebook, the analysis explores various aspects such as:
 
-Music Features: Popularity, tempo, energy, and more.
-Genre Insights: Distribution and trends across genres.
-Data Visualization: Interactive charts and visualizations for in-depth exploration.
+**Music Features**: Popularity, tempo, energy, and more.
+**Genre Insights**: Distribution and trends across genres.
+**Data Visualization**: Interactive charts and visualizations for in-depth exploration.
+
 Key highlights:
 
 Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
